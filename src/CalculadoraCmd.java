@@ -27,7 +27,7 @@ public class CalculadoraCmd {
             show.println("Digite seu nome: ");
                  nome = scan.next();
                 show.println("");
-            show.println("Olá " + nome + " qual operação deseja realizar?");
+            show.println("Olá " + nome + ", qual operação deseja realizar?");
                 show.println("1-Soma");
                 show.println("2-Subtração");
                 show.println("3-Multiplicação");

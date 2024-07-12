@@ -1,18 +1,18 @@
-## Getting Started
+# Calculadora CMD
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este é um programa simples, onde, por meio do prompt de comando é possível realizar operações matemáticas simples, digitando alguns comandos básicos.
 
-## Folder Structure
+## Estrutura 
+- A estrutura é simples e pode-se utilizar pelo próprio prompt, o que possibilidade a visualização simples dos comandos adicionados.
 
-The workspace contains two folders by default, where:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+![alt text](image-1.png)
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+## Linguagens Utilizadas
 
-## Dependency Management
+- Como linguagem utilizei apenas Java.
 
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+<img width="70" height = "70" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+          
+
