@@ -3,11 +3,7 @@
 Este é um programa simples, onde, por meio do prompt de comando é possível realizar operações matemáticas simples, digitando alguns comandos básicos.
 
 ## Estrutura 
-- A estrutura é simples e pode-se utilizar pelo próprio prompt, o que possibilita a visualização simples dos comandos adicionados.
-
-
-![alt text](image-1.png)
-
+- A estrutura é simples e pode-se utilizar pelo próprio prompt, o que possibilita a visualização simples dos comandos adicionados
 
 ## Linguagens Utilizadas
 
